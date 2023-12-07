@@ -1,0 +1,11 @@
+.labels{
+    font-size: medium;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.display-value{
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 16px;
+}
